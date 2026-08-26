@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FyabackApplication<fyaback>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fya.fyaback.FyabackApplication",
+            "projectName": "fyaback",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
